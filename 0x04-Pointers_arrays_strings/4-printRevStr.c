@@ -1,7 +1,7 @@
 #include "roadmap.h"
 
 /**
-*main - will call revStr() to reverse a string passed
+*main - will call printRevStr() to reverse a string passed
 *Return: will return 0 if success
 */
 
@@ -10,17 +10,17 @@ int main(void)
 	char *str; /* a var that store a string */
 
 	str = "I do not fear computers. I fear the lack of them - Isaac Asimov";
-	revStr(str);
+	printRevStr(str);
 	return (0);
 }
 
 /**
-*revStr - will reverse the string passed
+*printRevStr - will reverse the string passed
 *@str: is the str to reverse
 *Return: will return nothing (void)
 */
 
-void revStr(char *str)
+void printRevStr(char *str)
 {
 	int index;
 
