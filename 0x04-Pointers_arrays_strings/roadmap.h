@@ -31,6 +31,22 @@ void printRevStr(char *str);
 
 /* revStr will reverse a string */
 
-void revStr(char *str);
+void revStr(char *s);
+
+/* putsBy2 will print a char every two char */
+
+void putByTwo(char *);
+
+/* putsHalf will print the half of a string */
+
+void putsHalf(char *);
+
+/* printArr will print an array of integers by n elements */
+
+void printArr(int *, int);
+
+/* strCpy will copy the string passed and return */
+
+char *strCpy(char *, char *);
 
 #endif
