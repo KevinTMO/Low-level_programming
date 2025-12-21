@@ -11,7 +11,7 @@ The purpose of this project is to develop programming logic by solving problems 
 - How does a main function influence the return value of a program?
 - What are ASCii values?
 
-## List of projects being worked in this repository:
+## List of projects being worked on in this repository:
 | Project Name | Description |
 | ------ | ------ |
 | [0x00-Hello_world_and_Variables](https://github.com/KevinTMO/Low-level_programming/tree/main/0x00-Hello_world_and_Variables) | Variables, loops, putchar / printf functions |
